@@ -1,5 +1,7 @@
 Stat Tracker Markdown
 
+My favorite sport is basketball and I have always dreamed of being some sort of coach. I created this app for assistant coaches who are in charge of keeping track of stats. You can log in, view and edit your players, then view and edit their stats.
+
 [Click here to view Stat Tracker, switch to a mobile view for proper setup](https://pacific-plains-42070.herokuapp.com/)
 
 # Resource
