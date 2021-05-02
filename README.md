@@ -29,3 +29,5 @@ Delete Players member          | DELETE | /players/playerId
 Update Players member          | PUT    | /players/playerId
 
 * Update takes place in two different places in the app
+
+<img width="361" alt="Screen Shot 2021-05-02 at 2 51 27 PM" src="https://user-images.githubusercontent.com/54300598/116827380-efe0f780-ab55-11eb-8432-4f61449823e1.png">
